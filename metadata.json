@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Kamla Vihar",
+  "description": "Hotel Kamla Vihar in Anwari, Mohania, Bihar. Explore the hotel, location, gallery and guest information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
